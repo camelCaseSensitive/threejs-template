@@ -142,7 +142,7 @@
       this[globalName] = mainExports;
     }
   }
-})({"bUFPN":[function(require,module,exports) {
+})({"92ods":[function(require,module,exports) {
 "use strict";
 var global = arguments[3];
 var HMR_HOST = null;
@@ -29232,7 +29232,7 @@ if (typeof window !== "undefined") {
     else window.__THREE__ = REVISION;
 }
 
-},{"@parcel/transformer-js/src/esmodule-helpers.js":"gbLGj"}],"gbLGj":[function(require,module,exports) {
+},{"@parcel/transformer-js/src/esmodule-helpers.js":"bytX5"}],"bytX5":[function(require,module,exports) {
 exports.interopDefault = function(a) {
     return a && a.__esModule ? a : {
         default: a
@@ -29949,7 +29949,7 @@ class MapControls extends OrbitControls {
     }
 }
 
-},{"three":"ktPTu","@parcel/transformer-js/src/esmodule-helpers.js":"gbLGj"}],"k3xQk":[function(require,module,exports) {
+},{"three":"ktPTu","@parcel/transformer-js/src/esmodule-helpers.js":"bytX5"}],"k3xQk":[function(require,module,exports) {
 var parcelHelpers = require("@parcel/transformer-js/src/esmodule-helpers.js");
 parcelHelpers.defineInteropFlag(exports);
 parcelHelpers.export(exports, "color", ()=>color);
@@ -32240,6 +32240,6 @@ var index = {
 };
 exports.default = index;
 
-},{"@parcel/transformer-js/src/esmodule-helpers.js":"gbLGj"}]},["bUFPN","dV6cC"], "dV6cC", "parcelRequireb8de")
+},{"@parcel/transformer-js/src/esmodule-helpers.js":"bytX5"}]},["92ods","dV6cC"], "dV6cC", "parcelRequireb8de")
 
 //# sourceMappingURL=index.e82f28a0.js.map
