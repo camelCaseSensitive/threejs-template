@@ -1,0 +1,14 @@
+13
+63D:\WebDevelopment\threejstemplate\threejs-template\package.json133028886607544170 0
+55D:\WebDevelopment\threejstemplate\threejs-template\dist133028886607532580 1
+61D:\WebDevelopment\threejstemplate\threejs-template\.gitignore133028886600221990 0
+68D:\WebDevelopment\threejstemplate\threejs-template\package-lock.json133028886607542673 0
+60D:\WebDevelopment\threejstemplate\threejs-template\README.md133028886607209178 0
+54D:\WebDevelopment\threejstemplate\threejs-template\src133028886607706472 1
+67D:\WebDevelopment\threejstemplate\threejs-template\src\js\script.js133028886607706472 0
+57D:\WebDevelopment\threejstemplate\threejs-template\src\js133028886607706472 1
+65D:\WebDevelopment\threejstemplate\threejs-template\src\index.html133028886607706472 0
+66D:\WebDevelopment\threejstemplate\threejs-template\dist\index.html133028887497243496 0
+73D:\WebDevelopment\threejstemplate\threejs-template\dist\index.e82f28a0.js133028886607331241 0
+77D:\WebDevelopment\threejstemplate\threejs-template\dist\index.e82f28a0.js.map133028886607522588 0
+86D:\WebDevelopment\threejstemplate\threejs-template\dist\index.e82f28a0.js.map.14556.1h133028886607532580 0
